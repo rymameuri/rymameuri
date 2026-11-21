@@ -20,7 +20,7 @@
 |---|---|
 | 🔨 **Building** | **[rymameuri.com](https://www.rymameuri.com/)** — my portfolio, built with Next.js + Tailwind |
 | 📚 **Learning** | software engineering at CMU · system design · web3 |
-| 📍 **Based in** | Pittsburgh · CMU |
+| 📍 **Based in** | Doha, Qatar · CMU |
 
 <sub>last updated: Nov 2026 — update this table whenever you switch projects, it's the first thing people read.</sub>
 
