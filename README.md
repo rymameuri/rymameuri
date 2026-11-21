@@ -54,7 +54,6 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rymameuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D9A441&icon_color=B5352F&text_color=F6DDC2"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rymameuri&layout=compact&hide_border=true&bg_color=0D1117&title_color=D9A441&text_color=F6DDC2"/>
 </p>
 
